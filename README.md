@@ -1,6 +1,6 @@
 ### Hi there!
 
-#### I consider myself a person always looking for improvement and be better, very passionate about tech and the constant advances that are made within the insdustry.
+> I consider myself a person always looking for improvement and be better, very passionate about tech and the constant advances that are made within the insdustry.
 
 > [Codepen](https://codepen.io/Andr-s-Claro-Guerrero) **||** [Alura](https://app.aluracursos.com/user/camiloclarog) **||** [FreeCodeCamp](https://www.freecodecamp.org/AndresCGuerrero)
 
