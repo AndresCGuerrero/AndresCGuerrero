@@ -2,9 +2,9 @@
 
 #### I consider myself a person always looking for improvement and be better, very passionate about tech and the constant advances that are made within the insdustry.
 
-<a href="https://codepen.io/https://codepen.io/Andr-s-Claro-Guerrero">
-<img src="./logos/codepen.svg" width="25" /> </a>
-<a href="https://app.aluracursos.com/user/camiloclarog"><img src="./logos/alura.png" width="50" /></a>
+> [!Note]
+
+[Codepen](https://codepen.io/Andr-s-Claro-Guerrero) **||** [Alura](https://app.aluracursos.com/user/camiloclarog) **||** [FreeCodeCamp](https://www.freecodecamp.org/AndresCGuerrero)
 
 ### What I use/know
 
